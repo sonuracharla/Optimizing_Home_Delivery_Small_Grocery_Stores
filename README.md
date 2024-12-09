@@ -73,6 +73,21 @@ This project investigates how small grocery stores can leverage data analytics t
 3. **Scalability Testing**: Apply methods to larger datasets or multi-store environments.
 
 ---
+## Run individual scripts:
+- RFM Analysis: `python Code/rfm_analysis.py`
+- Clustering: `python Code/kmeans_clustering.py`
+- Churn Prediction: `python Code/churn_prediction.py`
+
+---
+
+## 👨‍🎓 About the Author
+This project was developed as part of my coursework at **Saint Louis University**. Special thanks to my instructor, **Dr. Ravindranath Arunasalam**, for his guidance throughout this study.  
+
+Feel free to reach out via [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/manideep-racharla-139a71183/)) or email me at **manideepguptha139@gmail.com**.
+
+---
+
+
 
 
 
